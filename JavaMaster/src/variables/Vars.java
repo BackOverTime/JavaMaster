@@ -12,5 +12,6 @@ public class Vars {
 		boolean luz;
 		char letra;
 		System.out.println("los valores son: ");
+		
 	}
 }
