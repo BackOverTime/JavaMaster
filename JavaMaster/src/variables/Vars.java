@@ -11,6 +11,8 @@ public class Vars {
 		String nombre;
 		boolean luz;
 		char letra;
-		System.out.println("los valores son: ");
+		
+		luz=true;
+		System.out.println("los valores son:" + luz);
 	}
 }
