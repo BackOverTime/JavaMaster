@@ -13,6 +13,6 @@ public class Vars {
 		char letra;
 		
 		luz=true;
-		System.out.println("los valores son:" + luz);
+		System.out.println("el valor es:" + luz);
 	}
 }
